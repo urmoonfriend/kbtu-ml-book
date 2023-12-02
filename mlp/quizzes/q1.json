@@ -1,0 +1,28 @@
+[
+    {
+        "question": "What does the Step Function do?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Squashes input between 0 and 1",
+                "correct": false,
+                "feedback": "This not correct, try again."
+            },
+            {
+                "answer": "Becomes zero for negative input, lets positive input through",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Says 'yes' or 'no' based on a threshold",
+                "correct": false,
+                "feedback": "This not correct, try again."
+            },
+            {
+                "answer": "None of the above",
+                "correct": false,
+                "feedback": "This not correct, try again."
+            }
+        ]
+    }
+]
